@@ -47,9 +47,32 @@ The free version of BioRender only allows upto 50 icons. At that point, I was al
 To create a new Illustration, I followed the same steps as Step 2.  
 
 # Step 11: Panel 4  
-I added two test tubes, both with transparent contents (as per the picture in the protocol). At the bottom of the test tube after centrifugation, a very tiny pellet can be seen similar to the picture in the protocol.
-I have used the graphic already given in the protocol as a reference this time as well, however I have made quite a few changes to it so as to match the pictures in the protocol. I have not shown particles in the test tube before centrifugation, as in the picture, the supernatant was clear after ultrafiltration. After centrifugation, the pellet size in the picture is significantly smaller than that of the protocol graphic, so I have stayed true to the picture rather than the graphic. Also, the graphic shows an Eppendoff tube, however I could not find any part in the protocol which mentions using an Eppendoff tube hence I have not included it into my infographic.  
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b10730ba-2340-4c80-907f-f13f3ede1783" />  
+I added two test tubes, both with transparent contents (as per the picture in the protocol). At the bottom of the test tube after centrifugation, a very tiny pellet can be seen similar to the picture in the protocol. Icons are connected with arrows along with a text box showing centrifuge settings. 
+I have used the graphic already given in the protocol as a reference this time as well, however I have made quite a few changes to it so as to match the pictures in the protocol. I have not shown particles in the test tube before centrifugation, as in the picture, the supernatant was clear after ultrafiltration. After centrifugation, the pellet size in the picture is significantly smaller than that of the protocol graphic, so I have stayed true to the picture rather than the graphic. Also, the graphic shows an Eppendoff tube, however I could not find any part in the protocol which mentions using an Eppendorf tube hence I have not included it into my infographic.  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/cef8cd1f-5685-41b3-af79-d680417d9b15" />  
+
+# Step 12: Panel 5  
+I added two test tubes, one showing the Sucrose Density Gradient as per the protocol, and an Eppendorf Tube, with its pellet labelled using a callout to show the PEVs (Plant-Derived Extracellular Vesicles).  
+The icons are connected using arrows and centrifuge settings are mentioned.  
+I have used the graphic already given in the protocol as a reference.  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/bcc19ef5-5b23-4fbc-bc86-bba8bb708369" />  
+
+# Step 13: Finishing Touches  
+- I added borders to the infographic.  
+- I added the names of the Universities which the authors belong to (Sun Yat-sen University & Jinan University)  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/0ab14573-2a99-4792-a3e0-a74f1e86d84c" />  
+
+# Step 14: Exporting
+I exported the final infographic as a 72 DPI .png file (the best option available with the Free Version of BioRender.  
+I have attached the final infographic, along with a PDF of the protocol I used in `main`.  
+
+# LINKS:  
+## Protocol: https://www.cell.com/star-protocols/fulltext/S2666-1667(26)00032-8  
+## Infographic_Part1 BioRender Link: https://app.biorender.com/illustrations/69ef152a508b31e58a383a98  
+## PEVInfographic_Final BioRender Link: https://app.biorender.com/illustrations/69f039cd51876cc4445ea628?slideId=37f446d2-83ee-4983-ae6c-b31d641e2b46  
+
+
+
 
 
 
