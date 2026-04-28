@@ -63,7 +63,7 @@ I have used the graphic already given in the protocol as a reference.
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/0ab14573-2a99-4792-a3e0-a74f1e86d84c" />  
 
 # Step 14: Exporting
-I exported the final infographic as a 72 DPI .png file (the best option available with the Free Version of BioRender.  
+I exported the final infographic as a 72 DPI .png file (the best option available with the Free Version of BioRender).  
 I have attached the final infographic, along with a PDF of the protocol I used in `main`.  
 
 # LINKS:  
