@@ -42,7 +42,15 @@ I added a label next to the syringe filter showing its size, and an arrow connec
 I have used the graphic already given in the protocol as a reference.  
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/aef99a83-883a-4910-8a61-1fad7fd2c554" />  
 
-# Step 10: Panel 4  
+# Step 10: Creating a second Infographic  
+The free version of BioRender only allows upto 50 icons. At that point, I was already at 42/50 and I was going to need more than 8 icons to complete the Infographic. As a workaround, I named the file as "Infographic_Part1" and exported it as a 72 DPI .png file. I would create a new Illustration and paste that .png in the new file to continue working.   
+To create a new Illustration, I followed the same steps as Step 2.  
+
+# Step 11: Panel 4  
+I added two test tubes, both with transparent contents (as per the picture in the protocol). At the bottom of the test tube after centrifugation, a very tiny pellet can be seen similar to the picture in the protocol.
+I have used the graphic already given in the protocol as a reference this time as well, however I have made quite a few changes to it so as to match the pictures in the protocol. I have not shown particles in the test tube before centrifugation, as in the picture, the supernatant was clear after ultrafiltration. After centrifugation, the pellet size in the picture is significantly smaller than that of the protocol graphic, so I have stayed true to the picture rather than the graphic. Also, the graphic shows an Eppendoff tube, however I could not find any part in the protocol which mentions using an Eppendoff tube hence I have not included it into my infographic.  
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b10730ba-2340-4c80-907f-f13f3ede1783" />  
+
 
 
 
