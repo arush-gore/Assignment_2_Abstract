@@ -1,7 +1,7 @@
 # Assignment_2_Abstract  
 # Step 1: Finding a Research Protocol  
 To find a research protocol, I visited https://www.cell.com/star-protocols/home and went to Volume 7, Issue 1, Mar 20, 2026. I went through their list of protocols and selected the protocol "Protocol for isolating plant-derived extracellular vesicles" (https://www.cell.com/star-protocols/fulltext/S2666-1667(26)00032-8).
-I will be creating an infographic which sequentially shows the following 5 steps of the protocol-
+I have created an infographic which sequentially shows the following 5 steps of the protocol-
 1. Processing of Plant Samples
 2. Differential Centrifugation
 3. Filtration and Ultrafiltration
