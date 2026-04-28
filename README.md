@@ -47,7 +47,7 @@ The free version of BioRender only allows upto 50 icons. At that point, I was al
 To create a new Illustration, I followed the same steps as Step 2.  
 
 # Step 11: Panel 4  
-I added two test tubes, both with transparent contents (as per the picture in the protocol). At the bottom of the test tube after centrifugation, a very tiny pellet can be seen similar to the picture in the protocol. Icons are connected with arrows along with a text box showing centrifuge settings. 
+I added two test tubes, both with transparent contents (as per the picture in the protocol). At the bottom of the test tube after centrifugation, a very tiny pellet can be seen similar to the picture in the protocol. Icons are connected with arrows along with a text box showing centrifuge settings.   
 I have used the graphic already given in the protocol as a reference this time as well, however I have made quite a few changes to it so as to match the pictures in the protocol. I have not shown particles in the test tube before centrifugation, as in the picture, the supernatant was clear after ultrafiltration. After centrifugation, the pellet size in the picture is significantly smaller than that of the protocol graphic, so I have stayed true to the picture rather than the graphic. Also, the graphic shows an Eppendoff tube, however I could not find any part in the protocol which mentions using an Eppendorf tube hence I have not included it into my infographic.  
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/cef8cd1f-5685-41b3-af79-d680417d9b15" />  
 
